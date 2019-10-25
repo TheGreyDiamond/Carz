@@ -12,6 +12,7 @@ First released in July 2012, becoming my most downloaded plugin to date. Carz is
 Add a whole new level of role-play to any server that uses roads, perfect for city servers.<p />
 
 [<img src="https://i.imgur.com/jcFOb37.png" alt="Discord Support">](https://discord.gg/h9d2fSd)<p />
+(Again that is **not** my discord server!)
 
 ## Installation
 * Install [Spigot](https://www.spigotmc.org/threads/buildtools-updates-information.42865/) _(v1.8 to 1.14)_
