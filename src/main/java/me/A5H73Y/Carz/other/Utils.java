@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-import com.connorlinfoot.bountifulapi.BountifulAPI;
+//import com.connorlinfoot.bountifulapi.BountifulAPI;
 import me.A5H73Y.Carz.Carz;
 import me.A5H73Y.Carz.enums.Commands;
 import me.A5H73Y.Carz.enums.Permissions;
@@ -335,19 +335,19 @@ public class Utils {
         player.sendMessage(Carz.getPrefix() + material.name() + " added to ClimbBlocks!");
     }
 
-    public static void sendTitle(Player player, String message) {
+    /*public static void sendTitle(Player player, String message) {
         if (Carz.getInstance().getSettings().isUsingBountiful()) {
             BountifulAPI.sendTitle(player, 5, 20, 5, message, null);
         } else {
             player.sendMessage(Carz.getPrefix() + message);
         }
-    }
+    }*/
 
-    public static void sendActionBar(Player player, String message) {
+    /*public static void sendActionBar(Player player, String message) {
         if (Carz.getInstance().getSettings().isUsingBountiful()) {
             BountifulAPI.sendActionBar(player, message, 20);
         } else {
             player.sendMessage(Carz.getPrefix() + message);
         }
-    }
+    }*/
 }
