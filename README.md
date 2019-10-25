@@ -14,7 +14,7 @@ Add a whole new level of role-play to any server that uses roads, perfect for ci
 [<img src="https://i.imgur.com/jcFOb37.png" alt="Discord Support">](https://discord.gg/h9d2fSd)<p />
 (Again that is **not** my discord server!)
 
-## Installation (get the normal version, for this version follow download link)
+## Installation (gets the normal version, for this version follow download link)
 * Install [Spigot](https://www.spigotmc.org/threads/buildtools-updates-information.42865/) _(v1.8 to 1.14)_
 * Download Carz from [dev.bukkit.org/projects/carz/files](https://dev.bukkit.org/projects/carz/files)
 * Place the _Carz.jar_ into the _/plugins_ folder of the server.
