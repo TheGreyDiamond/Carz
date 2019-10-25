@@ -1,8 +1,7 @@
 <p align="center"><img src="http://i.imgur.com/xPrxoVX.jpg" alt="Carz Logo"></p>
 
-[![travis-ci](https://travis-ci.org/A5H73Y/Carz.svg?branch=master)](https://travis-ci.org/A5H73Y/Carz/branches)
+
 [![tutorials](https://img.shields.io/badge/tutorials-github-brightgreen.svg)](https://a5h73y.github.io/Carz/)
-[![bStats](https://img.shields.io/badge/statistics-bstats-brightgreen.svg)](https://bstats.org/plugin/bukkit/Carz)
 [![license: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://tldrlegal.com/license/mit-license)
 [![repo](https://api.bintray.com/packages/a5h73y/repo/Carz/images/download.svg)](https://bintray.com/a5h73y/repo/Carz/_latestVersion)
 
