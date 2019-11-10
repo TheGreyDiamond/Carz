@@ -5,7 +5,7 @@
 [![license: MIT](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://tldrlegal.com/license/mit-license)
 [![repo](https://api.bintray.com/packages/a5h73y/repo/Carz/images/download.svg)](https://bintray.com/a5h73y/repo/Carz/_latestVersion)
 
-## This a edited and improved version of Carz. It might be instable!
+## This a edited and (not yet)improved version of Carz. It might be instable!
 
 Carz has finally been updated from 2014, bringing with it improved code, car ownership, fuel, economy, better permissions, and of course open-source.
 First released in July 2012, becoming my most downloaded plugin to date. Carz is now open source, allowing you to contribute ideas and enhancements, or create your own spin on the plugin.<p />
