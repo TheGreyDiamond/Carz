@@ -35,7 +35,7 @@ public class CarzCommands implements CommandExecutor {
         Player player = (Player) sender;
 
         if (args.length < 1) {
-            player.sendMessage(Carz.getPrefix() + "proudly created by " + ChatColor.AQUA + "A5H73Y and improved by TheGreydiamond");
+            player.sendMessage(Carz.getPrefix() + "proudly created by " + ChatColor.AQUA + "A5H73Y");
             player.sendMessage(Utils.getTranslation("Commands"));
             return false;
         }

@@ -36,13 +36,10 @@ public class Utils {
             return "Invalid translation.";
         }
 
-        String translated = Carz.getInstance().getSettings().getStringsConfig().getString(translationKey); // Changed due to some String not found errors   getString("Message." + translationKey);
-        System.out.println(translated);
+        String translated = Carz.getInstance().getSettings().getStringsConfig().getString("Message." + translationKey);
         translated = translated != null ? colour(translated) : "String not found: " + translationKey;
         return prefix ? Carz.getPrefix().concat(translated) : translated;
-        //return translated;
     }
-
 
     /**
      * Override method, but with a default of an enabled Carz prefix.

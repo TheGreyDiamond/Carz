@@ -67,12 +67,12 @@
             <scope>provided</scope>
         </dependency>
         <!--Bountiful API-->
-        <dependency>
+        <!--<dependency>
             <groupId>com.connorlinfoot</groupId>
             <artifactId>BountifulAPI</artifactId>
             <version>RELEASE</version>
             <scope>provided</scope>
-        </dependency>
+        </dependency>-->
         <!-- bStats -->
         <dependency>
             <groupId>org.bstats</groupId>

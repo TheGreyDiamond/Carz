@@ -45,7 +45,7 @@ public class Carz extends JavaPlugin {
 
         getLogger().info("Enabled Carz v" + getDescription().getVersion());
         //new Metrics(this);
-        updatePlugin();
+        //updatePlugin();
     }
 
     public FuelController getFuelController() {
@@ -74,7 +74,7 @@ public class Carz extends JavaPlugin {
         }
     }
 
-    /*private void setupBountifulApi() {
+    private void setupBountifulApi() {
         if (!getConfig().getBoolean("Other.BountifulAPI.Enabled")) {
             return;
         }
@@ -90,5 +90,5 @@ public class Carz extends JavaPlugin {
             getConfig().set("Other.BountifulAPI.Enabled", false);
             saveConfig();
         }
-    }*/
+    }
 }
